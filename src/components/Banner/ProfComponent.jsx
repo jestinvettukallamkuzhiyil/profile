@@ -27,9 +27,9 @@ const ProfComponent = () => {
           <h1 className="green">Jestin Joseph</h1>
           <h3>UX/UI Designer and graphic designer</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores,
-            iusto. Adipisci in qui officia provident tenetur sequi, deserunt
-            corporis quos?
+            To secure a challenging position where I can effectively
+contribute my skills as software professional for growth of
+organization and myself.
           </p>
           <button onClick={downloadResume}>My Resume</button>
           <Social>
