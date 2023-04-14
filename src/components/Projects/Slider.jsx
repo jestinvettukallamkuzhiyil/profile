@@ -10,8 +10,8 @@ let data = [
         disc : "Netflix clone usnig react js"
     },
     {
-        img : "https://res.cloudinary.com/ghazni/image/upload/v1661324074/Yt-portfolio/ui4_jku3ol.png",
-        disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eveniet iure rerum obcaecati et laborum earum!"
+        img : "https://i.ibb.co/ScYHrk5/p1.png",
+        disc : "college management system using django python"
     },
     {
         img : "https://res.cloudinary.com/ghazni/image/upload/v1661323981/Yt-portfolio/ui2_wtollo.png",
