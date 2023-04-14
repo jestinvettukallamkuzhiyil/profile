@@ -7,24 +7,15 @@ import styled from 'styled-components';
 let data = [
     {
         img : "https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_lim.size_1200x630.v1582751026.png",
-        disc : "Netflix clone usnig react js"
+        disc : "Netflix clone usnig react js",
+        url : "netflix-clone-react-vgwv.vercel.app"
     },
     {
         img : "https://i.ibb.co/ScYHrk5/p1.png",
-        disc : "college management system using django python"
+        disc : "college management system using django python",
+        url : "https://jestin111.pythonanywhere.com"
     },
-    {
-        img : "https://res.cloudinary.com/ghazni/image/upload/v1661323981/Yt-portfolio/ui2_wtollo.png",
-        disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eveniet iure rerum obcaecati et laborum earum!"
-    },
-    {
-        img : "https://res.cloudinary.com/ghazni/image/upload/v1661323980/Yt-portfolio/ui3_akynn4.png",
-        disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eveniet iure rerum obcaecati et laborum earum!"
-    },
-    {
-        img : "https://res.cloudinary.com/ghazni/image/upload/v1661323979/Yt-portfolio/ui1_n3uiaz.png",
-        disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eveniet iure rerum obcaecati et laborum earum!"
-    }
+
 ];
 
 var settings = {
