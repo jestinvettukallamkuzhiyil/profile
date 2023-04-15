@@ -9,7 +9,7 @@ import resumePdf from './resume.pdf';
 function downloadResume() {
   const link = document.createElement('a');
   link.href = resumePdf;
-  link.download = 'resume.pdf';
+  link.download = 'Resume.pdf';
   document.body.appendChild(link);
   link.click();
   document.body.removeChild(link);
