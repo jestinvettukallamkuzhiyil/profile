@@ -8,12 +8,17 @@ let data = [
     {
         img : "https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_lim.size_1200x630.v1582751026.png",
         disc : "Netflix clone usnig react js",
-        url : "netflix-clone-react-vgwv.vercel.app"
+        url : "https://netflix-clone-react-vgwv.vercel.app"
     },
     {
         img : "https://i.ibb.co/ScYHrk5/p1.png",
         disc : "college management system using django python",
         url : "https://jestin111.pythonanywhere.com"
+    },
+     {
+        img : "https://static.businessworld.in/article/article_extra_large_image/1597056012_CNRvas_amazon_dkblue_noto_email_v2016_us_main_CB468775337_.png",
+        disc : "Amazon clone using react js",
+        url : "https://react-js-amazon-clone.netlify.app"
     },
 
 ];
