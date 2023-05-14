@@ -25,7 +25,8 @@ const ProfComponent = () => {
             Hello <span className="green">I'am</span>
           </h4>
           <h1 className="green">Jestin Joseph</h1>
-          <h3>UX/UI Designer and graphic designer</h3>
+          <h2>Fresher</h2>
+          <h3>MEARN STACK Developer</h3>
           <p>
             To secure a challenging position where I can effectively
 contribute my skills as software professional for growth of

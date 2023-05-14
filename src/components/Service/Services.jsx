@@ -19,16 +19,15 @@ const Services = () => {
         <Slide direction="left">
           <Card
             Icon={MdDesignServices}
-            title={"ui/ux designer"}
-            disc={`As a UI/UX designer, I create easy-to-use and visually appealing interfaces. 
-            I use user research to guide my design process and create products that are functional and enjoyable to use`}
+            title={"Full stack developer"}
+            disc={`"I offer full-stack development services for the complete design, development, and maintenance of web applications, with expertise in both front-end and back-end development."<p></p>`}
           />
         </Slide>
         <Slide direction="up">
           <Card
             Icon={FiCodesandbox}
-            title={"graphic designer"}
-            disc={`As a graphic designer, I create visually appealing designs that effectively communicate a brand’s message. I have expertise in design tools and techniques and strive to create designs that capture the viewer’s attention`}
+            title={"Front_End Developer"}
+            disc={`"A front-end developer with expertise in developing responsive, user-friendly web interfaces using HTML, CSS, JavaScript, and various front-end frameworks like React, Angular"`}
           />
         </Slide>
         <Slide direction="right">
