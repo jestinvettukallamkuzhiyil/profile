@@ -59,7 +59,7 @@ organization and myself.
         <Profile>
           <img
             src="https://i.ibb.co/fpMgwjM/prifileimg.png"
-            alt="profile"
+            alt="jestin_profile"
           />
         </Profile>
       </Slide>
