@@ -34,6 +34,9 @@ organization and myself.
           </p>
           <button onClick={downloadResume}>My Resume</button>
           <Social>
+            
+
+          <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jestin-joseph-728a99227" target="_blank">Follow on LinkedIn</a>
             <p>Check out my</p>
             <div className="social-icons">
               <span>
