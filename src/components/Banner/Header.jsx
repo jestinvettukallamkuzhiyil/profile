@@ -1,13 +1,19 @@
 import React, { useState } from 'react'
 import styled from 'styled-components';
 import { GiCandleFlame } from "react-icons/gi";
+import logo from './logo.png'
+
 
 const Header = () => {
     const [bar, setBar] = useState(false);
   return (
     <Container bar={bar}>
         <Logo>
-            <span className='green'><GiCandleFlame/></span>
+            <span ><i> <img
+            src={logo}
+            alt="logo"
+            width="30" />
+          </i></span>
             <h1>Portfolio</h1>
         </Logo>
         <Nav bar={bar}>
