@@ -95,7 +95,7 @@ const Footer = () => {
       </Profile>
       <Form>
         <Slide direction="right">
-          <form>
+          <form netlify>
             <div className="name">
               <span>
                 <CgProfile />
