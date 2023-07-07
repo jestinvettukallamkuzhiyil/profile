@@ -1,8 +1,8 @@
 import React from "react";
 import styled from "styled-components";
 import { AiOutlineInstagram } from "react-icons/ai";
-import { GiEarthAmerica } from "react-icons/gi";
-import { FaLinkedinIn } from "react-icons/fa";
+// import { GiEarthAmerica } from "react-icons/gi";
+// import { FaLinkedinIn } from "react-icons/fa";
 import { Slide } from "react-awesome-reveal";
 import resumePdf from './Resume.pdf';
 
@@ -36,7 +36,6 @@ organization and myself.
           <Social>
             
 
-          <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jestin-joseph-728a99227" target="_blank">Follow on LinkedIn</a>
             <p>Check out my</p>
             <div className="social-icons">
               <span>
@@ -44,7 +43,7 @@ organization and myself.
                   <AiOutlineInstagram />
                 </a>
               </span>
-              <span>
+              {/* <span>
                 <a href="/">
                   <GiEarthAmerica />
                 </a>
@@ -53,8 +52,10 @@ organization and myself.
                 <a href="https://www.linkedin.com/in/jestin-joseph-728a99227/">
                   <FaLinkedinIn />
                 </a>
-              </span>
-            </div>
+              </span> */}
+            </div>          
+            <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jestin-joseph-728a99227">Follow on LinkedIn</a>
+
           </Social>
         </Texts>
       </Slide>
