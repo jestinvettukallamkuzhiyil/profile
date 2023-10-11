@@ -4,12 +4,12 @@ import { AiOutlineInstagram } from "react-icons/ai";
 // import { GiEarthAmerica } from "react-icons/gi";
 // import { FaLinkedinIn } from "react-icons/fa";
 import { Slide } from "react-awesome-reveal";
-import resumePdf from './Resume.pdf';
+import resumePdf from './Resume (1).pdf';
 
 function downloadResume() {
   const link = document.createElement('a');
   link.href = resumePdf;
-  link.download = 'Resume.pdf';
+  link.download = 'Resume (1).pdf';
   document.body.appendChild(link);
   link.click();
   document.body.removeChild(link);
