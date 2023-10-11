@@ -11,6 +11,16 @@ let data = [
         url : "https://netflix-clone-react-vgwv.vercel.app"
     },
     {
+      img : "https://www.tricksmachine.com/wp-content/uploads/2021/10/Top_WordPress_Plugin.png",
+      disc : "WordPress plugin, HideCat",
+      url : "https://github.com/jestincybrosys/HideCat"
+    },     
+    {
+      img : "https://www.hostinger.vn/huong-dan/wp-content/uploads/sites/10/2017/10/wordpress-theme-free.webp",
+      disc : "WordPress Theme, kinderGarten FSE",
+      url : "https://wordpress.org/themes/download/kindergarten-fse.1.0.0.zip?nostats=1"
+    },
+    {
         img : "https://i.ibb.co/ScYHrk5/p1.png",
         disc : "college management system using django python",
         url : "https://jestin111.pythonanywhere.com"
